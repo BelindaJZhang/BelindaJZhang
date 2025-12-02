@@ -1,8 +1,5 @@
 <!-- Enhanced GitHub Profile README -->
 
-<p align="center">
-  <img src="https://imgur.com/1tXdPzF.png" width="100%" alt="AI & Finance Banner"/>
-</p>
 
 # 👋 Hi, I'm Juan
 
