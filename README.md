@@ -45,10 +45,19 @@ I combine FP&A and digital finance experience with hands-on machine learning —
 
 ---
 
-## 📂 Projects (Highlights)
-- **LNG Forecast Engine** — modular deep-learning pipeline  
-- **Fashion RAG Chatbot** — vector search + generative answers  
-- **Finance Automation Tools** — AI-driven planning & insights  
+## 📂 Latest Projects
+
+- **Time-Series Forecast Engine**  
+  Deep-learning pipeline (Conv1D + LSTM) for LNG price forecasting.  
+  👉 https://github.com/BelindaJZhang/timeseries-forecast-engine
+
+- **LNG Price Forecasting & Profitability Simulation**  
+  Applied ML + energy trading analytics.  
+  👉 https://github.com/BelindaJZhang/lng-price-forecasting-and-profitability-simulation
+
+- **RAG-Based Chatbot**  
+  Weaviate, embeddings, product search & Q&A.  
+  👉 https://github.com/BelindaJZhang/rag_based_chatbot
 
 ---
 
